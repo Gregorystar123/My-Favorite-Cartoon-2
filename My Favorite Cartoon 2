@@ -1,0 +1,26 @@
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Chela+One&display=swap" rel="stylesheet">
+    <title>My Favorite Cartoon Character</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <ul class="menu">
+        <li class="link">About</li><br>
+        <li class="link">My Favorite Hobby</li><br>
+        <li class="link">My work</li><br>
+        <li class="link">Inspiration</li><br>
+        <li class="link">Contact</li>
+    </ul>
+    <section class="section1">
+        <p class="Title"> Garfield </p>
+        <img src="https://th.bing.com/th/id/OIP._1hlLpWX6oK1lPN_Nx27lwHaJe?pid=ImgDet&rs=1">
+        <h2> My Favorite Cartoon <br>
+        </h2>
+    </section>
+    <section class="section2">
+        <h2 class="h2">Can you name this cat? A cat for all seasons. Sassy. Opinionated. This lasagna loving, mailman chasing, sarcastic cat is...Garfield! Garfield is an American comic strip created by Jim Davis. Originally published locally as Jon in 1976, then in nationwide syndication in 1978 as Garfield, it chronicles the life of the title character, Garfield the cat; Jon Arbuckle, his human owner; and Odie, the dog. As of 2013, it was syndicated in roughly 2,580 newspapers and journals, and held the Guinness World Record for being the world's most widely syndicated comic strip. Garfield is my favorite cartoon character because he is funny! </h2>
+    </section>
+    <section><h1></h1></section>
+</body>
+</html>
